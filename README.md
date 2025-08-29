@@ -86,7 +86,7 @@ A machine learning extension demonstrated that course features (ratings, reviews
 ## 🚀 How to Run  
 You can run the notebook directly in **Google Colab**:  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amitkumarbhade/Udemy_Course_Analysis_And_Prediction/blob/feed/Udemy_FA_Course_Prediction.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amitkumarbhade/Udemy_Course_Analysis_And_Prediction/blob/main/Udemy_FA_Course_Prediction.ipynb)  
 
 Steps:  
 1. Upload the notebook (`Udemy_FA_Course_Prediction.ipynb`) to Colab.  
